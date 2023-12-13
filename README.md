@@ -1,6 +1,10 @@
-### Hi 👋, I'm Gian !
+<h1 align="center">
+  <b> Hi 👋, I'm Gian !</b>
+</h1>
 
-🔭 I’m currently working on a...
+Based in Bern, I'm a Full Stack Developer consistently dedicated to expanding my knowledge
+
+👨‍💼 I’m currently working on my [portfolio page](https://gigi2044.github.io/profile/) simply using HTML, CSS and some JavaScript ✨
 
 <!--
 **GiGi2044/GiGi2044** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
