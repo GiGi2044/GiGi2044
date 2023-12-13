@@ -1,5 +1,7 @@
 ### Hi 👋, I'm Gian !
 
+🔭 I’m currently working on a...
+
 <!--
 **GiGi2044/GiGi2044** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
