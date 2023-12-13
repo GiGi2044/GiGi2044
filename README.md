@@ -4,7 +4,7 @@
 
 Based in Bern, I'm a Full Stack Developer consistently dedicated to expanding my knowledge
 
-👨‍💼 I’m currently working on my [portfolio page](https://gigi2044.github.io/profile/) simply using HTML, CSS and some JavaScript ✨
+👨‍💼 I’m currently working on my <a href="https://gigi2044.github.io/profile/" target="_blank">portfolio page</a> simply using HTML, CSS and some JavaScript ✨
 
 <!--
 **GiGi2044/GiGi2044** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
