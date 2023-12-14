@@ -8,7 +8,7 @@ Based in Bern, I'm a Full Stack Developer consistently dedicated to expanding my
 
 - 🚀 Having completed the Le Wagon web development bootcamp in late 2023, I am eager to hone my skills in programming, with a bias toward Frontend and design
 
-- 👨‍💼 I am currently working on my <a href="https://gigi2044.github.io/profile/" target="_blank">portfolio page</a> using HTML, pure CSS and some JavaScript ✨
+- 👨‍💼 I am currently working on perfecting my <a href="https://gigi2044.github.io/profile/" target="_blank">portfolio page</a> using HTML, pure CSS and some JavaScript ✨
 
 - 💻 My most recent projects are:
   - 🎨 Artvista built using Ruby on Rails
