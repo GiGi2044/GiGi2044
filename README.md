@@ -16,7 +16,7 @@ Based in Bern, I'm a Full Stack Developer consistently dedicated to expanding my
 
 - 📫 How to reach me:
   - 📧 Directly at **gian@cunninghams.ch**
-  - 🔗 Or via My Linkedin <a href="https://www.linkedin.com/in/gian-cunningham-b7887016b/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oliveranthony17" height="20" width="20" /></a></p>
+  - 🔗 Or via My Linked <a href="https://www.linkedin.com/in/gian-cunningham-b7887016b/" target="blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oliveranthony17" height="20" width="20" /></a></p>
 
 <h2>👨‍💻 My skills </h2>
 <h4>Web technologies</h4>
